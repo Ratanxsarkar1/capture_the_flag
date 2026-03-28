@@ -1,4 +1,4 @@
-![](../attachments/Forensics-13.png)
+![](attachments/Forensics-13.png)
 
 ```
 Hints:
@@ -33,7 +33,9 @@ grep macb timeline.txt
 
 ![](attachments/Forensics-11.png)
 
+```
 NTczNDE3aDEzcl83aDRuXzdoM18xNDU3XzU4NTI3YmIyMjIK --> 573417h13r_7h4n_7h3_1457_58527bb222
+```
 
 ```
 picoCTF{573417h13r_7h4n_7h3_1457_58527bb222}

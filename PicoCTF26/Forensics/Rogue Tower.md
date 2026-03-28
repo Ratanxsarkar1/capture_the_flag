@@ -1,5 +1,5 @@
 
-![](../attachments/Forensics-8.png)
+![](attachments/Forensics-8.png)
 
 ```
 hints: 
@@ -9,7 +9,7 @@ hints:
 4. The exfiltrated data is split across multiple HTTP POST requests
 ```
 
-![](../attachments/Forensics-9.png)
+![](attachments/Forensics-9.png)
 
 
 `UNAUTHORIZED-TEST-NETWORK PLMN=00101 CELLID=91521`

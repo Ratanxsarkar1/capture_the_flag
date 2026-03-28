@@ -1,4 +1,4 @@
-![](../attachments/Forensics-14.png)
+![](attachments/Forensics-14.png)
 ```
 mmls disk2.img 
 DOS Partition Table

@@ -1,5 +1,5 @@
 
-![](../attachments/Forensics-3.png)
+![](attachments/Forensics-3.png)
 ## List all files (including deleted)
 
 Run:

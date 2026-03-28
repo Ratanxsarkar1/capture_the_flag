@@ -1,5 +1,5 @@
 
-![](../attachments/Forensics-6.png)
+![](attachments/Forensics-6.png)
 
 
 ```

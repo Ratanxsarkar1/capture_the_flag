@@ -1,4 +1,4 @@
-![](../attachments/Forensics-2.png)
+![](attachments/Forensics-2.png)
 
 We were given a **compressed disk image** `partition4.img.gz`.  
 

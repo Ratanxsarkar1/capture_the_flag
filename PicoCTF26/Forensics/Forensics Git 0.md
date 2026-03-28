@@ -1,4 +1,4 @@
-![](../attachments/Forensics-4.png)
+![](attachments/Forensics-4.png)
 
 
 ```
