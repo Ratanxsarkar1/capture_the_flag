@@ -1,4 +1,4 @@
-![](../attachments/Cryptography-7.png)
+![](attachments/Cryptography-7.png)
 
 ```
 -----BEGIN PRIVATE KEY-----

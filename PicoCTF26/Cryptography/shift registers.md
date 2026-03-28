@@ -1,4 +1,4 @@
-![](../attachments/Cryptography-2.png)
+![](attachments/Cryptography-2.png)
 
 ```python
 from Crypto.Util.number import bytes_to_long, long_to_bytes

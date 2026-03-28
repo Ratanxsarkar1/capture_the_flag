@@ -1,4 +1,4 @@
-![](../attachments/Cryptography-8.png)
+![](attachments/Cryptography-8.png)
 
 ``` python
 from pwn import xor

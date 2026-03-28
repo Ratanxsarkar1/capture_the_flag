@@ -1,4 +1,4 @@
-![](../attachments/Cryptography-10.png)
+![](attachments/Cryptography-10.png)
 
 ```python
 from hashlib import sha256
